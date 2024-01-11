@@ -124,6 +124,8 @@ Consul
 Contentful
 Corosync
 Coursier
+CPU
+CPUs
 cron
 cronjob
 cronjobs
@@ -237,6 +239,7 @@ Gantt
 Gemfile
 Gemnasium
 Gemojione
+Geo.Rocks
 Getter
 Getters
 gettext
@@ -461,6 +464,7 @@ pgLoader
 Phabricator
 phaser
 phasers
+Pinecone
 phpenv
 pipenv
 Pipfile
@@ -512,6 +516,7 @@ pytest
 Python
 qdrant
 Qdrant
+Qdrant's
 Qualys
 queryable
 Quicktime
@@ -718,6 +723,7 @@ toolchain
 toolchains
 toolkit
 toolkits
+toolset
 tooltip
 tooltips
 transactionally

@@ -13,4 +13,4 @@ extends: spelling
 message: 'Spelling check: "%s"?'
 level: warning
 ignore:
-  - cobalt/spelling-exceptions.txt
+  - Qdrant/spelling-exceptions.txt

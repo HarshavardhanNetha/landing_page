@@ -7,6 +7,9 @@ match: $sentence
 indicators:
   - ':'
 exceptions:
+  - API
+  - AWS
+  - AWS Marketplace
   - Azure
   - CLI
   - Code
@@ -20,7 +23,10 @@ exceptions:
   - macOS
   - Marketplace
   - MongoDB
+  - Qdrant
+  - Qdrant Cloud
   - REPL
+  - SDK
   - Studio
   - TypeScript
   - URLs
